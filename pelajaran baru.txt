@@ -1,3 +1,4 @@
 hal baru yang harus dipelajari
 - docker
 - Heroku
+- upload via VPS
